@@ -1,3 +1,8 @@
-this is the readme file
+# Final Project (CHANNELS)
 
-During this project we are going to implement a web based messaging app, based on groups and communities. 
+
+## Authors
+
+- Blake Hudson
+- Jérémy Facchetti
+- Joshua Henderson
