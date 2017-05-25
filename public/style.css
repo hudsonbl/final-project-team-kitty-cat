@@ -25,6 +25,7 @@ a{
 
 .navitem.selected{
 	border-bottom: solid;
+	border-bottom-width: thick;
 	border-color: black;
 }
 
@@ -76,4 +77,8 @@ main {
 	border-radius: 5%;
 	padding-top: 15px;
 	margin: 0 15px 0 15px;
+}
+
+.navbar a:hover{
+	color: AntiqueWhite;
 }
